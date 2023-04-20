@@ -4,7 +4,8 @@
 - Update User 
 - Delete User 
 - View User
-#Project setup
+#Project setup frontend
+
 -npm install
 -npm run serve
 
